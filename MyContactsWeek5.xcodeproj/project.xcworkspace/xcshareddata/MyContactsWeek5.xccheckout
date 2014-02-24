@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B97D89F-2086-488C-A731-EA732131648C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyContactsWeek5</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2262767D-9872-4786-9F56-6D783A586023</key>
+		<string>https://github.com/chukon/Weekly-Labs.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Week5/MyContactsWeek5/MyContactsWeek5.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2262767D-9872-4786-9F56-6D783A586023</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chukon/Weekly-Labs.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2262767D-9872-4786-9F56-6D783A586023</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2262767D-9872-4786-9F56-6D783A586023</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CIS280 Apps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
