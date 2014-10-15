@@ -12,20 +12,24 @@
 	<dict>
 		<key>2262767D-9872-4786-9F56-6D783A586023</key>
 		<string>https://github.com/chukon/Weekly-Labs.git</string>
+		<key>5F5BCA6BCC2F04C0AF2E9EE5698B407A8E5EEE42</key>
+		<string>https://github.com/yummsalad/Week5-MyContacts-HideKeyboard.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Week5/MyContactsWeek5/MyContactsWeek5.xcodeproj/project.xcworkspace</string>
+	<string>MyContactsWeek5.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2262767D-9872-4786-9F56-6D783A586023</key>
-		<string>../../../..</string>
+		<string>../../../CIS280 Apps</string>
+		<key>5F5BCA6BCC2F04C0AF2E9EE5698B407A8E5EEE42</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/chukon/Weekly-Labs.git</string>
+	<string>https://github.com/yummsalad/Week5-MyContacts-HideKeyboard.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2262767D-9872-4786-9F56-6D783A586023</string>
+	<string>5F5BCA6BCC2F04C0AF2E9EE5698B407A8E5EEE42</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>2262767D-9872-4786-9F56-6D783A586023</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CIS280 Apps</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5F5BCA6BCC2F04C0AF2E9EE5698B407A8E5EEE42</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Week5-MyContacts-HideKeyboard</string>
 		</dict>
 	</array>
 </dict>

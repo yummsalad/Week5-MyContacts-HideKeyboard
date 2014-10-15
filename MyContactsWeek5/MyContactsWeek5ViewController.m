@@ -2,8 +2,8 @@
 //  MyContactsWeek5ViewController.m
 //  MyContactsWeek5
 //
-//  Created by Charles Konkol on 2/16/14.
-//  Copyright (c) 2014 Chuck Konkol. All rights reserved.
+//  Created by Cesar Silva on 2/16/14.
+//  Copyright (c) 2014 Cesar Silva. All rights reserved.
 //
 
 #import "MyContactsWeek5ViewController.h"
@@ -74,12 +74,18 @@
     {
         self.txtData.text = @"MyContacts";
     }
-    self.txtData.text = [NSString stringWithFormat:@"%@\n\nFirstname:%@\nLastName:%@\nEmail:%@",
-                     self.txtData.text,self.txtFirst.text,self.txtLast.text,self.txtEmail.text];
+    self.txtData.text = [NSString stringWithFormat:@"%@\n\nFirstname:%@\nLastName:%@\nEmail:%@\nAddress:%@\nCity:%@\nState:%@\nZipcode:%@\nPhone:%@",
+                     self.txtData.text,self.txtFirst.text,self.txtLast.text,self.txtEmail.text,self.txtAddress.text,self.txtCity.text,self.txtState.text,self.txtZip.text,self.txtPhone.text];
     
     self.txtFirst.text = @"";
     self.txtLast.text = @"";
-   self.txtEmail.text = @"";
+    self.txtEmail.text = @"";
+    self.txtAddress.text = @"";
+    self.txtCity.text = @"";
+    self.txtState.text = @"";
+    self.txtZip.text = @"";
+    self.txtPhone.text = @"";
+    
    
     CGPoint scrollPoint = CGPointMake(0, self.btnBack.frame.origin.y);
     [self.Scrollview  setContentOffset:scrollPoint animated:YES];

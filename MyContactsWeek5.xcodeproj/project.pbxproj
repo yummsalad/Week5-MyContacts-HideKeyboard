@@ -200,6 +200,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Chuck Konkol";
 				TargetAttributes = {
+					121D3A8318B19DA500238E90 = {
+						DevelopmentTeam = LAK6SGQ7Q5;
+					};
 					121D3AA418B19DA500238E90 = {
 						TestTargetID = 121D3A8318B19DA500238E90;
 					};
@@ -379,6 +382,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyContactsWeek5/MyContactsWeek5-Prefix.pch";
 				INFOPLIST_FILE = "MyContactsWeek5/MyContactsWeek5-Info.plist";
@@ -392,6 +396,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyContactsWeek5/MyContactsWeek5-Prefix.pch";
 				INFOPLIST_FILE = "MyContactsWeek5/MyContactsWeek5-Info.plist";
@@ -461,6 +466,7 @@
 				121D3AB818B19DA500238E90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		121D3AB918B19DA500238E90 /* Build configuration list for PBXNativeTarget "MyContactsWeek5Tests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +475,7 @@
 				121D3ABB18B19DA500238E90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
